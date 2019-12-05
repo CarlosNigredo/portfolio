@@ -385,6 +385,9 @@ p.case-intro span {
     .cv-column--thin p.right-dash::after {
         display: none;
     }
+    .flex-item:nth-child(3) .condensed {
+        float: none !important;
+    }
 }
 
 @media (max-width: 600px) {
