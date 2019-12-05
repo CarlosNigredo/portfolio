@@ -99,8 +99,9 @@ header {
     background: url(../img/ui-hero.jpg) no-repeat center #000;
     background-size: cover;
 }
-.hero.case.twitter {
-    background: url(../img/fondo-red.png) no-repeat center #000;
+.hero.case.graphics {
+    background: url(../img/mandala-prehispanico.png) no-repeat top #000;
+    background-size: cover;
 }
 .hero p {
     margin: 0 25px;
@@ -412,6 +413,10 @@ p.case-intro span {
     }
     h1.white {
         -webkit-text-stroke: 1px #fff; 
+    }
+    .flex-container.tight .flex-item {
+        width: 100% !important;
+        flex-basis: 100% !important;
     }
 }
 
