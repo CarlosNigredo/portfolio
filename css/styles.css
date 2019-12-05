@@ -95,8 +95,9 @@ header {
     background: url(../img/mapa-haptico-inverted.jpg) no-repeat center #000;
     background-size: cover;
 }
-.hero.case.twitter {
-    background: url(../img/fondo-red.png) no-repeat center #000;
+.hero.case.ui {
+    background: url(../img/ui-hero.jpg) no-repeat center #000;
+    background-size: cover;
 }
 .hero.case.twitter {
     background: url(../img/fondo-red.png) no-repeat center #000;
