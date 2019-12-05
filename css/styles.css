@@ -391,6 +391,9 @@ p.case-intro span {
 }
 
 @media (max-width: 600px) {
+    .hero.case {
+        height: 70vh;
+    }
     .flex-item {
         width: 100%;
     }
@@ -420,6 +423,9 @@ p.case-intro span {
     .flex-container.tight .flex-item {
         width: 100% !important;
         flex-basis: 100% !important;
+    }
+    .flex-container.tight .flex-item.two-thirds {
+        height: auto;
     }
 }
 
