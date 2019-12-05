@@ -83,11 +83,23 @@ header {
     color: #fff;
 }
 .hero.case {
-    background: url(../img/fondo-red.png) no-repeat center #000;
     height: 55vh;
     padding-top: 13em;
     position: relative;
     margin-top: -110px;
+}
+.hero.case.twitter {
+    background: url(../img/fondo-red.png) no-repeat center #000;
+}
+.hero.case.maps {
+    background: url(../img/mapa-haptico-inverted.jpg) no-repeat center #000;
+    background-size: cover;
+}
+.hero.case.twitter {
+    background: url(../img/fondo-red.png) no-repeat center #000;
+}
+.hero.case.twitter {
+    background: url(../img/fondo-red.png) no-repeat center #000;
 }
 .hero p {
     margin: 0 25px;
