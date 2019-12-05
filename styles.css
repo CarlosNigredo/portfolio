@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    white-space: normal;
+}
+
+body {
+    background-color: red;
+
+}
+header {
+    background-color: blue;
+    border: 2px dotted black;
+}
+/* .hero{
+    background-color: lightpink;
+    color: lightseagreen;
+} */
+
+h1 {
+    font-size: 400px !important;
+}
+p {
+    color: lime !important;
+}
